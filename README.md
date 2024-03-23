@@ -43,7 +43,10 @@ Later improvements will come here.
 
 # Dependencies:
 
+All Arduino related libraries should be moved to /path/Arduino/libraries/
+
 [FM Radio Library](https://github.com/mroger/TEA5767)
+
 [Nokia 5110 Graph](http://www.rinkydinkelectronics.com/library.php?id=48)
 
 # References
