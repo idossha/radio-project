@@ -5,6 +5,10 @@ Links: [[Arduino IDE]] , [[Projects]]
 
 ---
 
+This is an adaptation of Nick's from [educ8s.tv](https://educ8s.tv/arduino-fm-radio-project/)
+
+---
+
 ### 1. Inspiration:
 
 Family reached out inquiring about the possibility of building her a simple crude radio receiver.
@@ -41,10 +45,14 @@ Family reached out inquiring about the possibility of building her a simple crud
 
 ---
 
+# Dependencies:
+
+[FM Radio Library](https://github.com/mroger/TEA5767)
+
+[Nokia 5110 Graph](http://www.rinkydinkelectronics.com/library.php?id=48)
+
 # References
 
-1. https://educ8s.tv/arduino-fm-radio-project/ - Semi assembled
-2. https://hackaday.com/2020/12/04/fm-radio-from-scratch-using-an-arduino/ - require full assembly
-3. https://www.youtube.com/watch?v=yssEiMLGH90 - Nucleos in Arduino IDe
+If you want to work with Nucleos instead of Arduino, but want to utilize the classic Arduino IDE you follow the insturctions here: https://www.youtube.com/watch?v=yssEiMLGH90
 
-https://github.com/stm32duino
+- https://github.com/stm32duino
