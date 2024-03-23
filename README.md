@@ -11,17 +11,15 @@ This is an adaptation of Nick's from [educ8s.tv](https://educ8s.tv/arduino-fm-ra
 
 ### 1. Inspiration:
 
-Family reached out inquiring about the possibility of building her a simple crude radio receiver.
+Family reached out inquiring about the possibility of building a simple crude radio receiver.
 
 ### 2. Conceptualization:
 
 - simple, small, 9V battery operated.
 - should seem like DIY device
-- Should receive FM signals and output good quality signal
+- Should receive FM signals and output good(ish) quality signal
 
-### 3. Minimum Viable Product:
-
-#### Hardware:
+### 3. Minimum Viable Product Requirements:
 
 - [ ] Microcontroller (Arduino Nano works well)
 - [ ] [FM Radio Module](https://www.ebay.com/itm/310795359575)
@@ -38,6 +36,14 @@ Family reached out inquiring about the possibility of building her a simple crud
 ### Iterative Design:
 
 Later improvements will come here.
+
+- housing from 3D printed schematics.
+- PCB design (?)
+- software improvements for:
+  - station memory
+  - increase stability when sweeping through freq range.
+  - reduce noise
+- miniaturisation
 
 ---
 
