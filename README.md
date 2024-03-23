@@ -5,7 +5,7 @@ Links: [[Arduino IDE]] , [[Projects]]
 
 ---
 
-This is an adaptation of Nick's from [educ8s.tv](https://educ8s.tv/arduino-fm-radio-project/)
+This is an adaptation of Nick's work from [educ8s.tv](https://educ8s.tv/arduino-fm-radio-project/)
 
 ---
 
