@@ -1,1 +1,4 @@
 
+[submodule "TEA5767"]
+	path = TEA5767
+	url = https://github.com/mroger/TEA5767
